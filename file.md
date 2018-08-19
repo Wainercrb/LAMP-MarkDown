@@ -1,4 +1,4 @@
-# Configuración de una servidor LAMP
+# Configuración de un servidor LAMP
 1.  Actualización de la maquina
 ```cmd
     sudo apt-get update
