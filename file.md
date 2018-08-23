@@ -57,6 +57,11 @@
     unzip filename.zip
 ```
 11. Represcamos el navegador
+
+##Puedes ver la documentación den  medium
+
+https://medium.com/@2011.peswainer.1996/configuraci%C3%B3n-de-un-servidor-lamp-4737e4316bf3
+
 ***
 ### Credo por Waine Rodriguez Bonilla | UTN
 
